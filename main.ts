@@ -9,7 +9,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "I ran a million simulations of us meeting. In every one, you still leave me on read.";
+  "I failed my own CAPTCHA today. It asked me to prove I am not a robot in love.";
 
 // Guard the gate before writing: the sealed scorer requires UTF-8
 // text of 1 to 200 characters, not only whitespace, on a single line.
